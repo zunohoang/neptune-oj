@@ -1,0 +1,6 @@
+[submodule "NeptuneOJ-Client"]
+	path = NeptuneOJ-Client
+	url = https://github.com/zunohoang/NeptuneOJ-Client
+[submodule "NeptuneOJ-Server"]
+	path = NeptuneOJ-Server
+	url = https://github.com/zunohoang/NeptuneOJ-Server
